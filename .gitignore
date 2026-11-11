@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PDF files & test data
+*.pdf
+
+# Output and watch directories
+test_workspace/
+watch_input/
+watch_output/
+watch_archive/
+
+# Logs & temp files
+*.log
+*.tmp
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
